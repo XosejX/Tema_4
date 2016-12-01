@@ -1,0 +1,41 @@
+body {
+    border-left: 60px solid skyblue;
+    font-family: arial;
+    font-size: 15;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+.principal {
+    background-color: lightgoldenrodyellow;
+    height: 100%;
+    border-top: 5px solid lightgoldenrodyellow;
+    padding-right: 40px;
+}
+
+* {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.nav {
+    background-color: powderblue;
+    margin-top: 5px;
+    padding: 3px;
+    box-shadow: 1px 2px 1px #000000;
+}
+
+#footer {
+    background-color: yellow;
+    margin-top: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#oculto {
+    visibility: visible;
+}
